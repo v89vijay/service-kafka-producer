@@ -10,4 +10,8 @@ class ServiceKafkaProducerApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoadsTest() {
+	}
+
 }
